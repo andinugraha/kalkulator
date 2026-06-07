@@ -139,5 +139,9 @@ dist
 
 # Vite files
 vite.config.js.timestamp-*
+
+node_modules
+.env
+.vercel
 vite.config.ts.timestamp-*
 .vite/
